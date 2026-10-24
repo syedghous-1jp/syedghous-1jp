@@ -1,63 +1,18 @@
-<h1 align="center">Hi, I'm Syed Ghous </h1>
+# 💫 About Me:
+🔭 I’m currently working on Vorknyx  OS (32-bit x86 Kernel/Bootloader in Assembly)<br>👯 I’m looking to collaborate on Open-source Cybersecurity tools & System Programming projects<br>🤝 I’m looking for help with Advanced Low-Level System Exploitation & Kernel Development<br>🌱 I’m currently learning Red/Blue Team Operations & Advanced Penetration Testing<br>💬 Ask me about Cybersecurity, C, Assembly, Python, Linux & Web Development<br>⚡ Fun fact I built my own OS kernel from scratch before turning 19!
 
-<h3 align="center">Cybersecurity Student • Founder @ HawkSec • Lahore, Pakistan 🇵🇰</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-blue?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-critical?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-success?style=flat-square" alt="Status"/>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1485894374641500210) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghxous) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-ghous-82921140b) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/syedghouss) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SyedGhouss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedghxous177@gmail.com) 
 
----
-
-###  About Me
-
-I'm a cybersecurity student building real security tooling and systems-level projects from the ground up — not just following tutorials. I focus on understanding *how things break* so I can build things that don't.
-
-Founder of **[HawkSec](https://hawksec.site)** — a cybersecurity initiative building practical security tools and learning resources.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=syedghous-1jp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=syedghous-1jp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedghous-1jp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=syedghous-1jp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###  Currently Building
-
--  **HawkSec OS** — A 32-bit x86 operating system written from scratch in NASM assembly. Custom bootloader, kernel, paging, heap allocator, and Ring 3 user mode — no frameworks, no shortcuts.
--  **Security Tooling** — Reconnaissance and network security tools focused on real-world attack surface analysis.
-
----
-
-###  Learning Path
-
-`Networking` → `Linux` → `Web Security` → `Ethical Hacking` → `CTF Challenges` → `Penetration Testing` → `SOC / Blue Team`
-
----
-
-###  Tech & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NASM%20Assembly-CC0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-</p>
-
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedghous-1jp&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedghous-1jp" alt="GitHub streak" height="165"/>
-</p>
-
----
-
-###  Connect
-
-<p align="left">
-  <a href="https://hawksec.site"><img src="https://img.shields.io/badge/Website-HawkSec-000000?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/syed-ghous-82921140b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>Learning in public. Building things that break the right way — safely, ethically, in labs.</i></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
