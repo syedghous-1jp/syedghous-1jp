@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Vorknyx  OS (32-bit x86 Kernel/Bootloader in Assembly)<br>👯 I’m looking to collaborate on Open-source Cybersecurity tools & System Programming projects<br>🤝 I’m looking for help with Advanced Low-Level System Exploitation & Kernel Development<br>🌱 I’m currently learning Red/Blue Team Operations & Advanced Penetration Testing<br>💬 Ask me about Cybersecurity, C, Assembly, Python, Linux & Web Development<br>⚡ Fun fact I built my own OS kernel from scratch before turning 19!
+#  About Me:
+🔭 I’m currently working on Vorknyx  OS (32-bit x86 Kernel/Bootloader in Assembly)<br> I’m looking to collaborate on Open-source Cybersecurity tools & System Programming projects<br> I’m looking for help with Advanced Low-Level System Exploitation & Kernel Development<br> I’m currently learning Red/Blue Team Operations & Advanced Penetration Testing<br> Ask me about Cybersecurity, C, Assembly, Python, Linux & Web Development<br>  Fun fact I built my own OS kernel from scratch before turning 19!
 
 
 ## 🌐 Socials:
